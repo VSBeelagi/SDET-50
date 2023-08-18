@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41" started-at="2023-08-18T17:06:13 IST" finished-at="2023-08-18T17:06:13 IST">
+    <groups>
+      <group name="smoke">
+        <method signature="Create.createTest()[pri:0, instance:Sample_Maven.Create@3cb1ffe6]" name="createTest" class="Sample_Maven.Create"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Test" duration-ms="41" started-at="2023-08-18T17:06:13 IST" finished-at="2023-08-18T17:06:13 IST">
+      <class name="Sample_Maven.Create">
+        <test-method status="PASS" signature="createTest()[pri:0, instance:Sample_Maven.Create@3cb1ffe6]" name="createTest" duration-ms="7" started-at="2023-08-18T17:06:13 IST" finished-at="2023-08-18T17:06:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTest -->
+      </class> <!-- Sample_Maven.Create -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
